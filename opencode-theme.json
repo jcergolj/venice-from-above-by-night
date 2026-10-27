@@ -38,10 +38,10 @@
     "border": {"base": "#817765"},
     "scrollbar": {"base": "#817765"},
     "diff": {
-      "text": {"added": "#b0c39e", "removed": "#dda08f", "context": "#f0e8da", "hunkHeader": "#91aabd"},
-      "background": {"added": "#30362a", "removed": "#3c2c28", "context": "#181715"},
-      "highlight": {"added": "#414b35", "removed": "#593b33"},
-      "lineNumber": {"text": "#bfb3a0", "background": {"added": "#30362a", "removed": "#3c2c28"}}
+      "text": {"added": "#b8d49d", "removed": "#f0aa98", "context": "#f0e8da", "hunkHeader": "#91aabd"},
+      "background": {"added": "#263f30", "removed": "#492724", "context": "#181715"},
+      "highlight": {"added": "#b8d49d", "removed": "#f0aa98"},
+      "lineNumber": {"text": "#bfb3a0", "background": {"added": "#263f30", "removed": "#492724"}}
     },
     "syntax": {
       "comment": "#bfb3a0", "keyword": "#b59aaf", "function": "#bdb087",

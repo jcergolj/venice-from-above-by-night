@@ -6,11 +6,11 @@ The original theme's Renaissance character and six Venice wallpapers are preserv
 
 ## Acknowledgements
 
-- **Original theme:** [Venice From Above by Matt](https://github.com/mattbbia/venice-from-above), used under the MIT License. This adaptation is based on commit `f19b64add63932b855d9b3b4cd2cb8e46f16fdb3`. The original copyright notice is retained in [LICENSE](LICENSE).
-- **Artwork:** *View of Venice* (1500), by **Jacopo de' Barbari**. The six wallpaper images are reproduced unchanged from the original theme. Its author identifies the artwork as public domain and credits the [National Gallery of Art](https://www.nga.gov/) for the high-resolution source images.
+- **Original theme:** [Venice From Above by Matt](https://github.com/mattbbia/venice-from-above), MIT licensed; copyright retained in [LICENSE](LICENSE).
+- **Artwork:** Jacopo de' Barbari's *View of Venice* (1500), public domain per upstream, with images credited to the [National Gallery of Art](https://www.nga.gov/).
 - **Dark adaptation:** [@jcergolj](https://github.com/jcergolj).
 
-This is an independent adaptation, not an official release by the original author.
+Independent adaptation; wallpapers unchanged.
 
 ## Install
 
