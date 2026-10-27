@@ -28,11 +28,11 @@ Omarchy generates application colour configurations from the palette. This repos
 | Role | Colour |
 | --- | --- |
 | Background | `#181715` |
-| Raised background | `#22201d` |
+| Raised background | `#2b2823` |
 | Text | `#f0e8da` |
-| Secondary text | `#b5aa98` |
+| Secondary text | `#bfb3a0` |
 | Accent | `#bdb087` |
-| Selection | `#38332b` |
+| Selection | `#443d32` |
 | Terracotta | `#cb8978` |
 | Olive | `#a3ad86` |
 | Lagoon | `#88b3ab` |

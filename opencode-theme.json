@@ -4,8 +4,8 @@
     "categorical": ["accent", "green", "blue", "purple", "cyan", "orange"],
     "text": {
       "base": "#f0e8da",
-      "muted": "#b5aa98",
-      "faint": "#b5aa98",
+      "muted": "#bfb3a0",
+      "faint": "#bfb3a0",
       "action": {
         "primary": {"base": "#bdb087", "$hovered": "#f0e8da", "$disabled": "#a49b8c"},
         "secondary": {"base": "#f0e8da", "$hovered": "#f8f0e2"},
@@ -21,13 +21,13 @@
     },
     "background": {
       "base": "#181715",
-      "raised": {"base": "#1f1d1a", "high": "#22201d", "max": "#38332b"},
+      "raised": {"base": "#25221e", "high": "#2b2823", "max": "#443d32"},
       "action": {
-        "primary": {"base": "#22201d", "$hovered": "#38332b", "$selected": "#38332b"},
-        "secondary": {"base": "#1f1d1a", "$hovered": "#38332b"},
+        "primary": {"base": "#2b2823", "$hovered": "#443d32", "$selected": "#443d32"},
+        "secondary": {"base": "#25221e", "$hovered": "#443d32"},
         "destructive": {"base": "#49312b", "$hovered": "#593b33"}
       },
-      "formfield": {"base": "#1f1d1a", "$focused": "#22201d", "$selected": "#38332b"},
+      "formfield": {"base": "#25221e", "$focused": "#2b2823", "$selected": "#443d32"},
       "feedback": {
         "error": {"base": "#3c2c28"},
         "warning": {"base": "#393428"},
@@ -35,22 +35,22 @@
         "info": {"base": "#2c3237"}
       }
     },
-    "border": {"base": "#6f685a"},
-    "scrollbar": {"base": "#6f685a"},
+    "border": {"base": "#817765"},
+    "scrollbar": {"base": "#817765"},
     "diff": {
       "text": {"added": "#b0c39e", "removed": "#dda08f", "context": "#f0e8da", "hunkHeader": "#91aabd"},
       "background": {"added": "#30362a", "removed": "#3c2c28", "context": "#181715"},
       "highlight": {"added": "#414b35", "removed": "#593b33"},
-      "lineNumber": {"text": "#b5aa98", "background": {"added": "#30362a", "removed": "#3c2c28"}}
+      "lineNumber": {"text": "#bfb3a0", "background": {"added": "#30362a", "removed": "#3c2c28"}}
     },
     "syntax": {
-      "comment": "#b5aa98", "keyword": "#b59aaf", "function": "#bdb087",
+      "comment": "#bfb3a0", "keyword": "#b59aaf", "function": "#bdb087",
       "variable": "#f0e8da", "string": "#a3ad86", "number": "#ce9a70",
-      "type": "#91aabd", "operator": "#c5b582", "punctuation": "#b5aa98"
+      "type": "#91aabd", "operator": "#c5b582", "punctuation": "#bfb3a0"
     },
     "markdown": {
       "text": "#f0e8da", "heading": "#bdb087", "link": "#91aabd",
-      "linkText": "#88b3ab", "code": "#c5b582", "blockQuote": "#b5aa98",
+      "linkText": "#88b3ab", "code": "#c5b582", "blockQuote": "#bfb3a0",
       "emphasis": "#f5eddf", "strong": "#f8f0e2", "horizontalRule": "#a49b8c",
       "listItem": "#bdb087", "listEnumeration": "#bdb087", "image": "#b59aaf",
       "imageText": "#88b3ab", "codeBlock": "#f0e8da"
@@ -58,7 +58,7 @@
   },
   "dark": {
     "hue": {
-      "gray": {"100":"#f8f0e2","200":"#f0e8da","300":"#d5cbbb","400":"#b5aa98","500":"#847b6c","600":"#6f685a","700":"#38332b","800":"#22201d","900":"#181715"},
+      "gray": {"100":"#f8f0e2","200":"#f0e8da","300":"#d5cbbb","400":"#bfb3a0","500":"#847b6c","600":"#817765","700":"#443d32","800":"#2b2823","900":"#181715"},
       "red": {"100":"#eed1c5","200":"#dda08f","300":"#cb8978","400":"#bc7968","500":"#a86959","600":"#815144","700":"#593b33","800":"#3c2c28","900":"#282724"},
       "orange": {"100":"#eed9c3","200":"#deaf88","300":"#ce9a70","400":"#be8b62","500":"#a87954","600":"#805d40","700":"#58432f","800":"#3d3026","900":"#282724"},
       "yellow": {"100":"#eee4c6","200":"#dcc88f","300":"#c5b582","400":"#bdb087","500":"#a0956d","600":"#7c7354","700":"#554f39","800":"#393428","900":"#282724"},

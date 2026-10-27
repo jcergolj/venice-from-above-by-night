@@ -1,13 +1,13 @@
 mode = "dark"
 
 accent = "#bdb087"
-selection = "#38332b"
-muted = "#b5aa98"
+selection = "#443d32"
+muted = "#bfb3a0"
 
 background = "#181715"
 dark_background = "#131210"
 darker_background = "#0e0d0c"
-lighter_background = "#22201d"
+lighter_background = "#2b2823"
 
 foreground = "#f0e8da"
 dark_foreground = "#d5cbbb"
