@@ -20,6 +20,12 @@ Neovim uses Omarchy's generated theme; Foot shows a palette preview using the th
 | --- | --- |
 | ![Neovim editing the theme palette with syntax highlighting](screenshots/neovim.png) | ![Foot terminal displaying the warm Venice by Night palette](screenshots/terminal.png) |
 
+### Directory listing
+
+`ls -lah --color=always` in a temporary sample folder, showing directories, hidden files, an executable, and a symbolic link.
+
+![Colourful ls listing of sample files and directories in Foot](screenshots/ls.png)
+
 ## Acknowledgements
 
 - **Original theme:** [Venice From Above by Matt](https://github.com/mattbbia/venice-from-above), MIT licensed; copyright retained in [LICENSE](LICENSE).
