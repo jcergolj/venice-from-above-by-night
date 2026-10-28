@@ -7,7 +7,7 @@
       "muted": "#bfb3a0",
       "faint": "#bfb3a0",
       "action": {
-        "primary": {"base": "#bdb087", "$hovered": "#f0e8da", "$disabled": "#a49b8c"},
+        "primary": {"base": "#bdb087", "$hovered": "#f0e8da", "$focused": "#181715", "$disabled": "#a49b8c"},
         "secondary": {"base": "#f0e8da", "$hovered": "#f8f0e2"},
         "destructive": {"base": "#cb8978", "$hovered": "#dda08f"}
       },
@@ -23,7 +23,7 @@
       "base": "#181715",
       "raised": {"base": "#25221e", "high": "#2b2823", "max": "#443d32"},
       "action": {
-        "primary": {"base": "#2b2823", "$hovered": "#443d32", "$selected": "#443d32"},
+        "primary": {"base": "#2b2823", "$hovered": "#443d32", "$focused": "#bdb087", "$selected": "#443d32"},
         "secondary": {"base": "#25221e", "$hovered": "#443d32"},
         "destructive": {"base": "#49312b", "$hovered": "#593b33"}
       },
