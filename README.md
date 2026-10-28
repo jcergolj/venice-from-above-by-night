@@ -4,6 +4,22 @@ A warm dark adaptation of [Venice From Above](https://github.com/mattbbia/venice
 
 The original theme's Renaissance character and six Venice wallpapers are preserved, with warm near-black surfaces, parchment text, aged-gold and olive accents, and muted colours for code and feedback.
 
+## Screenshots
+
+### OpenCode
+
+Split diff review with sample code, showing distinct additions, removals, and syntax colours. Uses the [included OpenCode theme](#opencode-v2).
+
+![OpenCode split diff with green additions and terracotta removals](screenshots/opencode.png)
+
+### Neovim and terminal
+
+Neovim uses Omarchy's generated theme; Foot shows a palette preview using the theme colours.
+
+| Neovim | Foot terminal |
+| --- | --- |
+| ![Neovim editing the theme palette with syntax highlighting](screenshots/neovim.png) | ![Foot terminal displaying the warm Venice by Night palette](screenshots/terminal.png) |
+
 ## Acknowledgements
 
 - **Original theme:** [Venice From Above by Matt](https://github.com/mattbbia/venice-from-above), MIT licensed; copyright retained in [LICENSE](LICENSE).
