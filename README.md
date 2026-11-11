@@ -54,6 +54,7 @@ Omarchy generates application colour configurations from the palette. This repos
 | Text | `#f0e8da` |
 | Secondary text | `#bfb3a0` |
 | Accent | `#bdb087` |
+| Focused window border | `#dcc88f` |
 | Selection | `#443d32` |
 | Terracotta | `#cb8978` |
 | Olive | `#a3ad86` |
