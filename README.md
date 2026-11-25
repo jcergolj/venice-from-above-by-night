@@ -65,6 +65,8 @@ Omarchy generates application colour configurations from the palette. This repos
 
 A matching explicit theme is included to avoid dependence on terminal palette detection. Omarchy installation does not activate it automatically.
 
+In question dropdowns, the focused answer is highlighted in warm amber (`#e8bd72`), while the other answers stay cream.
+
 After installing the Omarchy theme:
 
 ```bash
