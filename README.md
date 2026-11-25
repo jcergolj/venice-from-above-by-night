@@ -47,19 +47,19 @@ Omarchy generates application colour configurations from the palette. This repos
 
 ## Palette
 
-| Role | Colour |
-| --- | --- |
-| Background | `#181715` |
-| Raised background | `#2b2823` |
-| Text | `#f0e8da` |
-| Secondary text | `#bfb3a0` |
-| Accent | `#bdb087` |
-| Focused window border | `#dcc88f` |
-| Selection | `#443d32` |
-| Terracotta | `#cb8978` |
-| Olive | `#a3ad86` |
-| Lagoon | `#88b3ab` |
-| Blue | `#91aabd` |
+| Swatch | Role | Hex |
+| --- | --- | --- |
+| ![](palette/181715.svg) | Background | `#181715` |
+| ![](palette/2b2823.svg) | Raised background | `#2b2823` |
+| ![](palette/f0e8da.svg) | Text | `#f0e8da` |
+| ![](palette/bfb3a0.svg) | Secondary text | `#bfb3a0` |
+| ![](palette/bdb087.svg) | Accent | `#bdb087` |
+| ![](palette/dcc88f.svg) | Focused window border | `#dcc88f` |
+| ![](palette/443d32.svg) | Selection | `#443d32` |
+| ![](palette/cb8978.svg) | Terracotta | `#cb8978` |
+| ![](palette/a3ad86.svg) | Olive | `#a3ad86` |
+| ![](palette/88b3ab.svg) | Lagoon | `#88b3ab` |
+| ![](palette/91aabd.svg) | Blue | `#91aabd` |
 
 ## OpenCode V2
 
