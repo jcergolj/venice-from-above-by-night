@@ -54,7 +54,7 @@ Omarchy generates application colour configurations from the palette. This repos
 | ![](palette/f0e8da.svg) | Text | `#f0e8da` |
 | ![](palette/bfb3a0.svg) | Secondary text | `#bfb3a0` |
 | ![](palette/bdb087.svg) | Accent | `#bdb087` |
-| ![](palette/dcc88f.svg) | Focused window border | `#dcc88f` |
+| ![](palette/e8bd72.svg) | Focused window border | `#e8bd72` |
 | ![](palette/443d32.svg) | Selection | `#443d32` |
 | ![](palette/cb8978.svg) | Terracotta | `#cb8978` |
 | ![](palette/a3ad86.svg) | Olive | `#a3ad86` |
@@ -65,7 +65,7 @@ Omarchy generates application colour configurations from the palette. This repos
 
 A matching explicit theme is included to avoid dependence on terminal palette detection. Omarchy installation does not activate it automatically.
 
-In question dropdowns, the focused answer is highlighted in warm amber (`#e8bd72`), while the other answers stay cream.
+In question dropdowns, the focused answer uses the same warm amber (`#e8bd72`) as the focused window border. The other answers stay cream.
 
 After installing the Omarchy theme:
 
