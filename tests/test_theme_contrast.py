@@ -17,6 +17,13 @@ def contrast(first, second):
 
 
 class ThemeContrastTest(unittest.TestCase):
+    def test_focused_question_answer_is_readable_and_distinct(self):
+        base = json.loads(THEME.read_text())["base"]
+        field = base["text"]["formfield"]
+        focused = field.get("$focused", field["base"])
+        self.assertNotEqual(focused, field["base"])
+        self.assertGreaterEqual(contrast(focused, base["background"]["raised"]["base"]), 4.5)
+
     def test_pasted_label_and_focused_actions_are_readable(self):
         base = json.loads(THEME.read_text())["base"]
         action = base["text"]["action"]["primary"]

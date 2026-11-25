@@ -11,7 +11,7 @@
         "secondary": {"base": "#f0e8da", "$hovered": "#f8f0e2"},
         "destructive": {"base": "#cb8978", "$hovered": "#dda08f"}
       },
-      "formfield": {"base": "#f0e8da", "$disabled": "#a49b8c"},
+      "formfield": {"base": "#f0e8da", "$focused": "#e8bd72", "$disabled": "#a49b8c"},
       "feedback": {
         "error": {"base": "#cb8978"},
         "warning": {"base": "#c5b582"},
